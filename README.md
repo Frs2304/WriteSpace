@@ -1,2 +1,2 @@
 # WriteSpace
-WriteSpace: Discover your creative voice and share your thoughts with the world through our intuitive and inspiring Blog App.
+WriteSpace leverages the power of the MERN stack (MongoDB, Express.js, React, and Node.js) to deliver a seamless and efficient blogging experience, combining a robust database, a flexible backend, and a dynamic frontend.
